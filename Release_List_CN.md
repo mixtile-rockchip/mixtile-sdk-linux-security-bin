@@ -2,6 +2,19 @@
 
 ## optee v2
 
+| 时间       | 文件           | 编译 commit | 重要程度 |
+| ---------- | :------------- | ----------- | -------- |
+| 2024-12-17 | uclibc_lib/arm | a678067a    | 重要     |
+
+### New
+
+1. uclibc库新增支持UFS RPMB。
+2. uclibc库分为两个版本，uclibc库使用arm-rockchip830-linux-uclibcgnueabihf编译，适用于RV1106平台。uclibc库使用arm-rockchip831-linux-uclibcgnueabihf编译，适用于RV1103B平台。
+
+------
+
+## optee v2
+
 | 时间       | 文件                                 | 编译 commit | 重要程度 |
 | ---------- | :----------------------------------- | ----------- | -------- |
 | 2024-08-30 | uclibc_lib/arm/libckteec.a/so        | 4cb63d20    | 重要     |

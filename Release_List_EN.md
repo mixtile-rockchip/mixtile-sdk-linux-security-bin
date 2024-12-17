@@ -2,6 +2,19 @@
 
 ## optee v2
 
+| Date       | file           | Build commit | Severity  |
+| ---------- | :------------- | ------------ | --------- |
+| 2024-12-17 | uclibc_lib/arm | a678067a     | important |
+
+### New
+
+1. The uclibc library has added support for UFS RPMB.
+2. The uclibc library is divided into two versions, The uclibc library is compiled using arm-rockchip830-linux-uclibcgnueabihf is suitable for the RV1106 platform. The uclibc library is compiled using arm-rockchip831-linux-uclibcgnueabihf and is suitable for the RV1103B platform.
+
+------
+
+## optee v2
+
 | Date       | file                                 | Build commit | Severity  |
 | ---------- | :----------------------------------- | ------------ | --------- |
 | 2024-08-30 | uclibc_lib/arm/libckteec.a/so        | 4cb63d20     | important |
