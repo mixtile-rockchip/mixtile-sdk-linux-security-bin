@@ -2,6 +2,20 @@
 
 ## optee v2
 
+| Date       | file              | Build commit | Severity  |
+| ---------- | :---------------- | ------------ | --------- |
+| 2025-01-22 | lib/arm lib/arm64 | 6e5faad5     | important |
+
+### New
+
+1. Support build-in tee client version.
+2. Support sync flag for synchronize data.
+3. Secure storage supports UFS RPMB for 32 bit system.
+
+------
+
+## optee v2
+
 | Date       | file           | Build commit | Severity  |
 | ---------- | :------------- | ------------ | --------- |
 | 2024-12-17 | uclibc_lib/arm | a678067a     | important |
