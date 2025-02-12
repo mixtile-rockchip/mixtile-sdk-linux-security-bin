@@ -2,6 +2,21 @@
 
 ## optee v2
 
+| Date       | file           | Build commit | Severity  |
+| ---------- | :------------- | ------------ | --------- |
+| 2025-02-12 | uclibc_lib/arm | 6e5faad5     | important |
+
+### New
+
+1. Support build-in tee client version.
+2. Support sync flag for synchronize data.
+3. Secure storage supports UFS RPMB for 32 bit system.
+4. Add librk_tee_service.so.
+
+------
+
+## optee v2
+
 | Date       | file              | Build commit | Severity  |
 | ---------- | :---------------- | ------------ | --------- |
 | 2025-01-22 | lib/arm lib/arm64 | 6e5faad5     | important |
