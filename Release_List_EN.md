@@ -2,6 +2,18 @@
 
 ## optee v2
 
+| Date       | file              | Build commit | Severity  |
+| ---------- | :---------------- | ------------ | --------- |
+| 2025-03-19 | lib/arm lib/arm64 | 44970d6      | important |
+
+### New
+
+1. Support read rpmb dev info from sysfs.
+
+------
+
+## optee v2
+
 | Date       | file           | Build commit | Severity  |
 | ---------- | :------------- | ------------ | --------- |
 | 2025-02-12 | uclibc_lib/arm | 6e5faad5     | important |
