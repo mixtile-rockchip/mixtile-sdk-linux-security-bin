@@ -2,6 +2,18 @@
 
 ## optee v2
 
+| Date       | file                      | Build commit | Severity  |
+| ---------- | :------------------------ | ------------ | --------- |
+| 2025-04-28 | libteec.so tee-supplicant | 6c923f9      | important |
+
+### New
+
+1. Emmc RPMB cmd add MMC_RSP_SPI_R1 param for compatible with SPI devices.
+
+------
+
+## optee v2
+
 | Date       | file              | Build commit | Severity  |
 | ---------- | :---------------- | ------------ | --------- |
 | 2025-03-19 | lib/arm lib/arm64 | 44970d6      | important |
