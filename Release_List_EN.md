@@ -4,6 +4,19 @@
 
 | Date       | file                      | Build commit | Severity  |
 | ---------- | :------------------------ | ------------ | --------- |
+| 2025-08-15 | libteec.so tee-supplicant | 4539a4a      | important |
+
+### New
+
+1. Improve compatibility with MTD devices and reduce the probability of data anomalies caused by power outages.
+2. Support sync data to MOS reboot security.
+
+------
+
+## optee v2
+
+| Date       | file                      | Build commit | Severity  |
+| ---------- | :------------------------ | ------------ | --------- |
 | 2025-04-28 | libteec.so tee-supplicant | 6c923f9      | important |
 
 ### New
