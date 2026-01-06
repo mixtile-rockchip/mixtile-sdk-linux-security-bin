@@ -1,5 +1,17 @@
 # Release Note
 
+## optee v3
+
+| 时间       | 文件                                                | 编译 commit | 重要程度 |
+| ---------- | :-------------------------------------------------- | ----------- | -------- |
+| 2026-01-06 | libteec.so libckteec.so libseteec.so tee-supplicant | c59b0c1     | 重要     |
+
+### New
+
+1. 初始版本。
+
+------
+
 ## optee v2
 
 | 时间       | 文件                      | 编译 commit | 重要程度 |

@@ -1,5 +1,17 @@
 # Release Note
 
+## optee v3
+
+| Date       | file                                                | Build commit | Severity  |
+| ---------- | :-------------------------------------------------- | ------------ | --------- |
+| 2026-01-06 | libteec.so libckteec.so libseteec.so tee-supplicant | c59b0c1      | important |
+
+### New
+
+1. Initial version.
+
+------
+
 ## optee v2
 
 | Date       | file                      | Build commit | Severity  |
