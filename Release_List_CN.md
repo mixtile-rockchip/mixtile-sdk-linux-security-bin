@@ -4,6 +4,19 @@
 
 | 时间       | 文件                                                | 编译 commit | 重要程度 |
 | ---------- | :-------------------------------------------------- | ----------- | -------- |
+| 2026-02-28 | libteec.so libckteec.so libseteec.so tee-supplicant | 601bf53     | 重要     |
+
+### New
+
+1. 默认使能CFG_TEE_SUPP_PLUGINS和CFG_GP_SOCKETS。
+2. 支持动态选择安全存储。
+
+------
+
+## optee v3
+
+| 时间       | 文件                                                | 编译 commit | 重要程度 |
+| ---------- | :-------------------------------------------------- | ----------- | -------- |
 | 2026-01-22 | libteec.so libckteec.so libseteec.so tee-supplicant | 46f8bfa     | 重要     |
 
 ### New

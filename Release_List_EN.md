@@ -4,6 +4,19 @@
 
 | Date       | file                                                | Build commit | Severity  |
 | ---------- | :-------------------------------------------------- | ------------ | --------- |
+| 2026-02-28 | libteec.so libckteec.so libseteec.so tee-supplicant | 601bf53      | important |
+
+### New
+
+1. Enable CFG_TEE_SUPP_PLUGINS and CFG_GP_SOCKETS as default.
+2. Support select storage file operations.
+
+------
+
+## optee v3
+
+| Date       | file                                                | Build commit | Severity  |
+| ---------- | :-------------------------------------------------- | ------------ | --------- |
 | 2026-01-22 | libteec.so libckteec.so libseteec.so tee-supplicant | 46f8bfa      | important |
 
 ### New
